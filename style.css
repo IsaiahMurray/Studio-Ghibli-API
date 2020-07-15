@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://www.wallpaperflare.com/static/819/637/176/hayao-miyazaki-studio-ghibli-animated-movies-anime-wallpaper.jpg);
+    min-height: 100%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    background-color: snow;
+    border-radius: 5px;
+}
+
+.card{
+    margin: 20px;
+    max-width: 350px;
+}
