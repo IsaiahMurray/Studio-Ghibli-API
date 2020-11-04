@@ -1,5 +1,5 @@
 body{
-    background-image: url(https://www.wallpaperflare.com/static/819/637/176/hayao-miyazaki-studio-ghibli-animated-movies-anime-wallpaper.jpg);
+    background-image: url('https://images.unsplash.com/photo-1576675466969-38eeae4b41f6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80');
     min-height: 100%;
 background-repeat: no-repeat;
 background-attachment: fixed;
@@ -10,14 +10,11 @@ background-size: cover;
 h1{
     color: black;
     text-align: center;
-    background: rgb(34,193,195);
-    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
     border-radius: 5px;
 }
 
 .card{
     margin: 20px;
     max-width: 350px;
-    background: rgb(34,193,195);
-    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+ 
 }
